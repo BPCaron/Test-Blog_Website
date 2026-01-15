@@ -11,3 +11,4 @@ gunicorn==23.0.0
 psycopg2-binary==2.9.11
 dotenv==0.9.9
 flask-bootstrap==3.3.7.1
+bleach==6.3.0
